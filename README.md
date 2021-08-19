@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Th3-M4rtin
+- 👋 Hi, I’m @MartinBilko
 - 👀 I’m interested in data management, knowledge management, insurance technologies, SpaceX, Tesla, IT transformation
 - 🌱 I’m currently studying data and information science
 - 💞️ I’m looking to collaborate on nothing at the moment
